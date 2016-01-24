@@ -18,6 +18,6 @@
   padding-bottom: 250px;
 }
 
-.custom {
-   cursor: url("https://45.media.tumblr.com/f2eb0651f9d689465f92bc0980055a9a/tumblr_nxius1i5sj1rby04wo1_250.gif"), auto;
+body {
+	cursor: url('https://45.media.tumblr.com/f2eb0651f9d689465f92bc0980055a9a/tumblr_nxius1i5sj1rby04wo1_250.gif'), default;
 }
