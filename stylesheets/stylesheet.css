@@ -19,7 +19,7 @@
   padding-bottom: 250px;
 }
 
-.body {
+.body, html {
   cursor: url(http://www.rw-designer.com/cursor-extern.php?id=79951);
   
 }
