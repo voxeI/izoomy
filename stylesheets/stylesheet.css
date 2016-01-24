@@ -18,3 +18,7 @@
   padding-top: 50px;
   padding-bottom: 250px;
 }
+
+body, html {
+    cursor: url("https://orig12.deviantart.net/19ed/f/2015/352/2/6/tubbs_animated_cursor_by_die_waffen_legt_an-d9kiscy.gif"), pointer;
+}
