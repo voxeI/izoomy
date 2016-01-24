@@ -21,3 +21,9 @@
 html {
 	cursor: url('http://www.picgifs.com/cursors/nature/cats/animaatjes_cats_icon34.gif'), pointer;
 }
+
+#main-content p {
+  text-align: center;
+  color: #eeeeee;
+  font-family: "Open Sans", Serif;
+}
