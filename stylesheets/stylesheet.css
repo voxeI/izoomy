@@ -1,4 +1,4 @@
-.page-header {
+div.page-header {
   text-align: center;
   color: #ffffff;
   background-image: url("http://imagesmtv-a.akamaihd.net/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/11/phone-1446411774.gif");
@@ -6,11 +6,11 @@
   font-family: "Open Sans", Serif;
 }
 
-.main-content {
+div.main-content {
   background-image: url("https://45.media.tumblr.com/3c43c24dbb58ebe26c7a23773f6f49d7/tumblr_o0mquyes3M1unbtf2o1_500.gif");
 }
 
-.main-content h1 {
+div.main-content h1 {
   text-align: center;
   color: #ffffff;
   font-family: "Open Sans", Serif;
