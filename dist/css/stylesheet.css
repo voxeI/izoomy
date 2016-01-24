@@ -8,14 +8,14 @@
 
 #main-content {
   background-image: url("https://45.media.tumblr.com/3c43c24dbb58ebe26c7a23773f6f49d7/tumblr_o0mquyes3M1unbtf2o1_500.gif");
+  padding-top: 50px;
+  padding-bottom: 250px;
 }
 
 #main-content h1 {
   text-align: center;
   color: #ffffff;
   font-family: "Open Sans", Serif;
-  padding-top: 50px;
-  padding-bottom: 250px;
 }
 
 html {
@@ -26,4 +26,5 @@ html {
   text-align: center;
   color: #eeeeee;
   font-family: "Open Sans", Serif;
+  background-color: #333333, opacity: 0.5;
 }
