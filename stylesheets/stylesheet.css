@@ -55,8 +55,8 @@ a {
 
 .page-header {
   color: #ffffff;
-  text-align: center;
-  background-color: #000000;
+  text-align: left;
+  background-color: #111111;
 
 @media screen and (min-width: 64em) {
   .page-header {
