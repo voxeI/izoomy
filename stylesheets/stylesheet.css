@@ -8,7 +8,7 @@
 
 .main-content {
   background-image: url("https://45.media.tumblr.com/3c43c24dbb58ebe26c7a23773f6f49d7/tumblr_o0mquyes3M1unbtf2o1_500.gif");
-  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=79951"), pointer;
+  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=79951"),;
 }
 
 .main-content h1 {
@@ -17,5 +17,5 @@
   font-family: "Open Sans", Serif;
   padding-top: 50px;
   padding-bottom: 250px;
-  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=79951"), pointer;
+  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=79951");
 }
