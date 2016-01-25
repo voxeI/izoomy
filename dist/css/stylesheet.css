@@ -24,4 +24,17 @@ html, body {
   font-size: 20px;
 }
 
+table {
+    border-collapse: collapse;
+    width: 75%;
+}
 
+th, td, tr {
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
