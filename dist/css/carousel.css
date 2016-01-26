@@ -92,6 +92,9 @@ body {
   letter-spacing: -1px;
 }
 
+ .featurette-image {
+  margin-top: −120px; /* Vertically center image with the text */
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
