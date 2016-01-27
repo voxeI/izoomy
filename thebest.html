@@ -50,7 +50,7 @@
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner" role="listbox">
+        <div class="carousel-inner smoothScroll" role="listbox" id="pagetop">
           <div class="item active">
             <img class="first-slide" src="images/shreky.gif" alt="First slide">
             <div class="container">
@@ -95,7 +95,7 @@
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container marketing" id="pagetop">
+    <div class="container marketing">
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
@@ -103,19 +103,22 @@
           <img class="img-circle" src="images/ezreal-square.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Ezreal</h2>
           <p>The Prodigal Explorer - Grandmaster Explorer</p>
-          <p><a class="btn btn-default" href="#ezreal" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default smoothScroll" href="#ezreal" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=81" target="_default" role="button">Matches &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="images/karthus-square.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2>Karthus</h2>
           <p>The Deathsinger - Sermon of The Dead</p>
-          <p><a class="btn btn-default" href="#karthus" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default smoothScroll" href="#karthus" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=30" target="_default" role="button">Matches &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="images/zilean-square.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Zilean</h2>
           <p>The Chronokeeper</p>
-          <p><a class="btn btn-default" href="#zilean" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default smoothScroll" href="#zilean" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=26" target="_default" role="button">Matches &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -126,9 +129,10 @@
       <div class="row featurette" id="ezreal">
         <div class="col-md-7">
           <h2 class="featurette-heading">Ezreal. <span class="text-muted">Who needs a map? </span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+          <p class="lead">"There's little time to study musty tomes when you're busy crawling around where the musty tomes originally came from."</p>
+          <p><a class="btn btn-default smoothScroll"  href="#pagetop" role="button">Top &uarr;</a></p>
           <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=81" target="_default" role="button">Matches &raquo;</a></p>
-          <p><a class="btn btn-default" href="#pagetop" role="button">Top &uarr;</a></p>
+          <p><a class="btn btn-default smoothScroll"  href="#karthus" role="button">Next &darr;</a></p>
         </p>
         </div>
         <div class="col-md-5">
@@ -140,13 +144,14 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Karthus. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Karthus. <span class="text-muted">Death</span></h2>
+          <p class="lead">"Agony, ecstasy, peace. Every passing has a beauty all its own."</p>
+          <p><a class="btn btn-default smoothScroll" href="#pagetop" role="button">Top &uarr;</a></p>
           <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=30" target="_default" role="button">Matches &raquo;</a></p>
-          <p><a class="btn btn-default" href="#pagetop" role="button">Top &uarr;</a></p>
+          <p><a class="btn btn-default smoothScroll"  href="#zilean" role="button">Next &darr;</a></p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="img-circle featurette-image img-responsive center-block" src="images/ezreal.jpg" alt="Generic placeholder image">
+          <img class="img-circle featurette-image img-responsive center-block" src="images/karthus_skittles.png" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -154,13 +159,13 @@
 
       <div class="row featurette" id="zilean">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Zilean. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Zilean. <span class="text-muted">It is time.</span></h2>
+          <p class="lead">"There is no greater grief than for a loss that is yet to come."</p>
+          <p><a class="btn btn-default smoothScroll" href="#pagetop" role="button">Top &uarr;</a></p>
           <p><a class="btn btn-default" href="http://matchhistory.na.leagueoflegends.com/en/#match-history/NA1/48788898?champion=26" target="_default" role="button">Matches &raquo;</a></p>
-          <p><a class="btn btn-default" href="#pagetop" role="button">Top &uarr;</a></p>
         </div>
         <div class="col-md-5">
-          <img class="img-circle featurette-image img-responsive center-block" src="images/ezreal.jpg" alt="Generic placeholder image">
+          <img class="img-circle featurette-image img-responsive center-block" src="images/zilean_tear.gif" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -171,6 +176,7 @@
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript" src="dist/js/scroll.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="dist/js/bootstrap.min.js"></script>
   </body>
