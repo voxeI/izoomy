@@ -1,0 +1,58 @@
+#biggie {
+  text-align: center;
+  background-image: url("../../images/power.gif");
+  background-size: cover;
+}
+
+#biggie iframe {
+  padding-top:50px;
+}
+
+#main-content {
+  background-size: cover;
+  background-image: url("../../images/teemo.gif");
+}
+
+#main-content h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+#main-content p {
+  text-align: center;
+  color: #eeeeee;
+  font-size: 17px;
+}
+
+#wall {
+  padding-top: 60px;
+  text-align: center;
+  color:#ffffff;
+  background-image: url("../../images/wall.jpg");
+  background-size: cover;
+}
+
+table {
+  border-collapse: collapse;
+  width: 75%;
+  opacity: 0.8;
+}
+
+th, td, tr {
+  padding: 15px;
+  text-align: center;
+  background-color: #222222;
+  border-bottom: 1px solid white;
+  line-height: 5;
+  font-size: 19px;
+}
+
+th {
+  background-color: #222222;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+audio {
+  display:none;
+}
