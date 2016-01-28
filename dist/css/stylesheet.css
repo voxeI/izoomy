@@ -46,3 +46,8 @@ th {
   background-size: cover;
   background-color: #333333;
 }
+
+row {
+  border: 2px;
+  border-color: #222222;
+}
