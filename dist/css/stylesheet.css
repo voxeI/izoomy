@@ -10,10 +10,7 @@
 
 #main-content {
   background-color:#eeeeee;
-  border: 2px;
-  border-color: #3333ff;
-  padding-top: 10px;
-  border-style: solid;
+  padding-top: 25px;
 }
 
 #main-content h1 {
