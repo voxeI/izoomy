@@ -6,7 +6,7 @@
 
               // ********** MAKE YOUR CHANGES HERE
 
-              var text="Click here to become one with God" // YOUR TEXT
+              var text="Donate" // YOUR TEXT
               var speed=80 // SPEED OF FADE
 
               // ********** LEAVE THE NEXT BIT ALONE!
