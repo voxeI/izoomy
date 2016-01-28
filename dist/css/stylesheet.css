@@ -1,6 +1,7 @@
 #biggie {
   text-align: center;
   background-image: url("../../images/teemo.gif");
+  background-size: cover;
 }
 
 #biggie iframe {
