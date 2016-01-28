@@ -21,6 +21,8 @@
   text-align: center;
   color: #eeeeee;
   font-size: 17px;
+  border: 2px;
+  border-color: #3333ff;
 }
 
 table {
@@ -45,9 +47,4 @@ th {
   background-image: url("../../images/wall.jpg");
   background-size: cover;
   background-color: #333333;
-}
-
-row {
-  border: 2px;
-  border-color: #222222;
 }
