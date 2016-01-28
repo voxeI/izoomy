@@ -1,10 +1,6 @@
-html {
-  background-image: url("../../images/stars.gif");
-  background-size: cover;
-}
-
 #biggie {
   text-align: center;
+  background-image: url("../../images/stars.gif");
 }
 
 #biggie iframe {
@@ -12,8 +8,7 @@ html {
 }
 
 #main-content {
-  background-size: cover;
-  background-image: url("../../images/teemo.gif");
+  background-image: url("../../images/stars.gif");
 }
 
 #main-content h1 {
