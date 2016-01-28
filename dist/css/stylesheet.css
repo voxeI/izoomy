@@ -17,12 +17,14 @@
 #main-content h1 {
   text-align: center;
   color: #333333;
+  font-family: 'Share', cursive;
 }
 
 #main-content p {
   text-align: center;
   color: #333333;
   font-size: 13px;
+  font-family: 'Share', cursive;
 }
 
 table {
