@@ -1,7 +1,6 @@
 #biggie {
   text-align: center;
-  background-image: url("../../images/power.gif");
-  background-size: cover;
+  background-color: #000000;
 }
 
 #biggie iframe {
