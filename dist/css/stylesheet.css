@@ -1,6 +1,6 @@
 #biggie {
   text-align: center;
-  background-image: url("../../images/teemo.gif");
+  background-image: url("../../images/power.gif");
   background-size: cover;
 }
 
@@ -12,6 +12,8 @@
   background-color:#eeeeee;
   padding-top: 25px;
   font-family: 'Share', cursive;
+  background-image: url("../../images/teemo.gif");
+  background-size:cover;
 }
 
 #main-content h1 {
