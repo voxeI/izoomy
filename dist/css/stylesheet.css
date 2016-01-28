@@ -1,7 +1,10 @@
-#biggie {
-  text-align: center;
+html {
   background-image: url("../../images/stars.gif");
   background-size: cover;
+}
+
+#biggie {
+  text-align: center;
 }
 
 #biggie iframe {
