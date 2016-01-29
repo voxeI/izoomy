@@ -1,57 +1,57 @@
 #biggie {
-  text-align: center;
-  background-image: url("../../images/power.gif");
-  background-size: cover;
+	text-align: center;
+	background-image: url(../../images/power.gif);
+	background-size: cover;
 }
 
 #biggie iframe {
-  padding-top:50px;
+	padding-top: 50px;
 }
 
 #main-content {
-  background-color:#eeeeee;
-  padding-top: 25px;
-  font-family: 'Share', cursive;
-  background-image: url("../../images/teemo.gif");
-  background-size:cover;
+	background-color: #eee;
+	padding-top: 25px;
+	font-family: 'Share',cursive;
+	background-image: url(../../images/teemo.gif);
+	background-size: cover;
 }
 
 #main-content h1 {
-  text-align: center;
-  color: #eeeeee;
+	text-align: center;
+	color: #eee;
 }
 
 #main-content p {
-  text-align: center;
-  color: #eeeeee;
-  font-size: 16px;
+	text-align: center;
+	color: #eee;
+	font-size: 16px;
 }
 
 table {
-    border-collapse: collapse;
-    width: 75%;
+	border-collapse: collapse;
+	width: 75%;
 }
 
-th, td, tr {
-  text-align: center;
-  background-color: #eeeeee;
+th,td,tr {
+	text-align: center;
+	background-color: #eee;
 }
 
 th {
-  background-color: #4CAF50;
-  color: white;
+	background-color: #4CAF50;
+	color: #fff;
 }
 
 #wall {
-  padding-top: 60px;
-  text-align: center;
-  color:#eeeeee;
-  background-image: url("../../images/wall.jpg");
-  background-size: cover;
-  background-color: #333333;
+	padding-top: 60px;
+	text-align: center;
+	color: #eee;
+	background-image: url(../../images/wall.jpg);
+	background-size: cover;
+	background-color: #333;
 }
 
 iframe {
-  border: none;
-  scrolling="no";
+	border: none;
+	scrolling: no;
 }
