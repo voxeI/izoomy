@@ -50,3 +50,8 @@ th {
   background-size: cover;
   background-color: #333333;
 }
+
+iframe {
+  frameborder="0";
+  scrolling="no";
+}
