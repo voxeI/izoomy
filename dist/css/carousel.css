@@ -28,6 +28,7 @@ body {
 .navbar-wrapper .navbar {
   padding-right: 15px;
   padding-left: 15px;
+  font-family: 'Share', cursive;
 }
 .navbar-wrapper .navbar .container {
   width: auto;
