@@ -52,6 +52,6 @@ th {
 }
 
 iframe {
-  frameborder="0";
+  border: none;
   scrolling="no";
 }
