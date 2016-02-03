@@ -7266,6 +7266,7 @@ th {
   background-image: url(../../images/teemo.gif);
   font-family: 'Share',cursive;
   padding-bottom: 500px;
+  line-height: 2;
 }
 
 #main-content h1 {
