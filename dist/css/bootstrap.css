@@ -6790,7 +6790,7 @@ button.close {
 
 table {
   border-collapse: collapse;
-  width: 75%;
+  width: 100%;
 }
 
 th,td,tr {
@@ -7241,15 +7241,6 @@ optgroup {
  * Remove most spacing between table cells.
  */
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-td,
-th {
-  padding: 0;
-}
 
 #biggie {
   text-align: center;
