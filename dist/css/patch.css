@@ -5,7 +5,6 @@ img {
 
 .main-content {
 	padding-top: 100px;
-	
 	padding: 15px;
 }
 
@@ -13,3 +12,6 @@ table {
 	text-align: center;
 }
 
+.panel {
+	padding-top: 100px;
+}
